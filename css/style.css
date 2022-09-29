@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: black;
     color: white;
+    padding-top: 100px;
 }
 
 #water {
@@ -11,7 +12,6 @@ body {
     background-image: -webkit-image-set(url('../img/2.jpg'));
     background-size: cover;
     width: 100%;
-    max-width: 750px;
     height: auto;
     cursor: crosshair;
     cursor: url(../img/circular-cursor.png) 53 53, crosshair;
